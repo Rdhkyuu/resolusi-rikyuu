@@ -14,7 +14,7 @@ $!-OOP
 $!- Any Programming Language that I will learn
 -LUA
 -Dart
--Python
+-Swift
 -Kotlin
 
 
