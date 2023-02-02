@@ -1,0 +1,18 @@
+Rencana guweh untuk proses belajar coding.
+$!-Frontend Things
+-HTML (DONE)
+-CSS (BASIC THINGS)
+-JAVASCRIPT (BASIC THINGS)
+- Any kind of framework
+$!-Backend Things
+-PHP (BASIC THINGS)
+-JAVASCRIPT (BASIC THINGS)
+-MYSQL (BASIC THINGS)
+$!-OOP
+-JAVA (BASIC THINGS)
+-C++ (BASIC THINGS)
+$!- Any Programming Language that I will learn
+-LUA
+-Dart
+-Python
+-Kotlin
