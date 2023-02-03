@@ -1,0 +1,9 @@
+Mungkin gw bakal lebih fokus ke backend terlebih dahulu kemudian akan melanjutkan dalam bahasa frontend
+
+Backend yang perlu dilanjutkan untuk dikuasai:
+-Mysql
+-PHP
+-Javascript
+-PHP Framework
+-JS Framework
+-Java
