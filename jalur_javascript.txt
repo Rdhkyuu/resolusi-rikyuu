@@ -5,3 +5,5 @@
 -Node.js
 !$- Other
 -Advanced Javascript
+-Javascript with Modular One
+-API
