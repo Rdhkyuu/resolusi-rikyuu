@@ -7,3 +7,5 @@
 -Advanced Javascript
 -Javascript with Modular One
 -API
+-Other Framework
+-And javascript for mobile?
